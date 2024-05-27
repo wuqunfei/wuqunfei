@@ -31,7 +31,7 @@ Relevant Coursework: Probability and Statistics, Signals and Systems, Digital an
 
 - **Senior Software Engineer**, Tipico Tech Services GmbH, Karlsruhe, 03/2015 - 01/2017
     - **System Enhancement**: Refactored the legacy system to improve performance and availability from 95% to 99.69% by introducing microservices, cleaning legacy code with test coverage ≥ 90%, tools such as Chef, SonarQube, JProfile, SeleniumGrid, ELK, and AppDynamics.
-    - **Business Extendtion**: Introduced real-time capabilities by Apache Kafka for extending live risk management and live smart pricing in sports betting. Delivered low latency live system (<=200ms), which increased the profit margin by 2.4 ‰ on a 4 billion business, within a small agile team of 4 teammates.
+    - **Business Extension**: Introduced real-time capabilities by Apache Kafka for extending live risk management and live smart pricing in sports betting. Delivered low latency live system (<=200ms), which increased the profit margin by 2.4 ‰ on a 4 billion business, within a small agile team of 4 teammates.
 
 - **Project Manager**, Alcatel-Lucent Bell Labs, Shanghai, 07/2012 - 07/2014
     - **Collaboration and research**: Partnered with Intel Asian-Pacific R&D Center, National Telecom Institution, and universities to develop a methodology for classifying and analysing 3 Terabyte data per day. Researched in new Hadoop/Hbase 0.97 version to replace Oracle Exadata for daily reporting and behaviour analysis of 5,000,000 mobile users.

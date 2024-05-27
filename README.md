@@ -1,7 +1,7 @@
 # Qunfei 
 - Phone: +49 (0)176 31088239
 - Email: qunfei.wu@outlook.com
-- Linkedin: linkedin.com/in/qunfei [linkedin.com/in/qunfei](https://linkedin.com/in/qunfei/)
+- Linkedin: [linkedin.com/in/qunfei](https://linkedin.com/in/qunfei/)
 - Living: Munich, Germany
 
 # 1. Professional Summary

@@ -5,7 +5,7 @@
 - Living: Munich, Germany
 
 # 1. Professional Summary
-A results-driven Technical Project Manager and Pragmatic Software/Cloud/Data Architect with over a decade of experience delivering complex solutions in global finance, insurance, and telecommunications. Passionate about leading cross-functional teams to continuously deliver innovative solutions, optimize business processes, and drive organizational success. Skilled in strategic planning, cloud architecture, data analytics, and machine learning. Committed to maintaining professionalism and applying technology to solve complexities in algorithms, Systems, organizations. 
+A results-driven Technical Project Manager and Pragmatic Software/Cloud/Data Architect with over a decade of experience delivering complex solutions in global finance, insurance, and telecommunications. Passionate about leading cross-functional teams to continuously deliver innovative solutions, optimize business processes, and drive organizational success. Skilled in strategic planning, cloud architecture, data analytics, and machine learning. Committed to maintaining professionalism and applying technology to solve complexities in algorithms, systems, organizations. 
 
 # 2. Education
 **Bachelor of Electrical & Information Engineering**, Tongji University, Shanghai, 2003-2007  

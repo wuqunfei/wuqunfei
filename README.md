@@ -41,7 +41,7 @@ Relevant Coursework: Probability and Statistics, Signals and Systems, Digital an
 
 # 4. Additional Activities 
 - Apple Lab Member, Shanghai (2004-2006)
-- Middle School Mathematics Mentor (2007)
+- High School Mathematics Mentor (2007)
 - Apache Kafka Community Member, Munich (2018-2020)
 - Badminton Bundesliga substitute Player, ESV Munich Sport Club (2023-Present)
 
